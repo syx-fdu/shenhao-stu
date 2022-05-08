@@ -36,12 +36,9 @@
 - Interested in **CV, NLP** 
 
 ## Stats
-<div align="center">
 <a href="https://github.com/shenhao-stu/shenhao-stu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhao-stu&langs_count=10&layout=compact&exclude_repo=shenhao-stu.github.io" alt="shenhao-stu's GitHub Stats" /></a>
-<a href="https://github.com/shenhao-stu">
-  <img src="https://github-readme-stats.vercel.app/api?username=shenhao-stu&show_icons=true&line_height=27&count_private=true&title_color=333&text_color=777" alt="shenhao-stu's GitHub Stats" /></a>
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhao-stu&langs_count=10&layout=compact&exclude_repo=shenhao-stu.github.io" alt="shenhao-stu's GitHub Stats" /></a><a href="https://github.com/shenhao-stu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shenhao-stu&show_icons=true&line_height=27&count_private=true&title_color=333&text_color=777" alt="shenhao-stu's GitHub Stats" /></a>
 
 ## Languages and Tools
 <p align="center">
